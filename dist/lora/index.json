@@ -1,0 +1,23 @@
+{
+  "LoRA 训练 | SD 训练 UI": "LoRA Training | SD Training UI",
+  "SD-Trainer": "SD-Trainer",
+  "LoRA训练": "LoRA Training",
+  "新手": "Beginner",
+  "专家": "Expert",
+  "工具": "Tools",
+  "参数详解": "Parameter Explanation",
+  "Tensorboard": "Tensorboard",
+  "WD 1.4 标签器": "WD 1.4 Tagger",
+  "其他": "Other",
+  "UI 设置": "UI Settings",
+  "关于": "About",
+  "Github": "Github",
+  "灯泡": "Bulb",
+  "#": "#",
+  "LoRA 训练": "LoRA Training",
+  "本 LoRA 训练界面分为两种模式。": "This LoRA Training interface is divided into two modes.",
+  "针对新手的简易训练只有部分可调节参数": "For beginners, there are only a few adjustable parameters for simple training.",
+  "针对有一定经验的用户的专家模式，开放全部的高级参数": "For users with some experience, the Expert mode provides access to all advanced parameters.",
+  "TIP": "TIP",
+  "如果你是新手，建议使用新手模式，不要逞强使用专家模式，否则可能会出现意想不到的问题。": "If you're a beginner, it's recommended to use the Beginner mode. Avoid forcefully using Expert mode, as unexpected issues may arise."
+}
